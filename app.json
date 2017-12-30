@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/lightwarn/lightwarn/lightwarn"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "自断电报警",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}
